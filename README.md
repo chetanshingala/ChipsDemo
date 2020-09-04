@@ -1,6 +1,6 @@
 # ChipsDemo
 Create simple chips using FlexLayout. 
 
-![](images/ios_preview.png)
+![](images/chips_ios.gif)
 
 ![](images/android_preview.png)
