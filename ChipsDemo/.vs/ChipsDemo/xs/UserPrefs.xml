@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{25FE6599-F340-4F49-84AC-11CDF4425F12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChipsDemo/Views/ChipsPage.xaml">
+    <Files>
+      <File FileName="ChipsDemo/App.xaml" Line="11" Column="26" />
+      <File FileName="ChipsDemo/App.xaml.cs" />
+      <File FileName="ChipsDemo/ViewModels/ChipsPageViewModel.cs" />
+      <File FileName="ChipsDemo/Model/ChipsModel.cs" />
+      <File FileName="ChipsDemo/ViewModels/ViewModelBase.cs" />
+      <File FileName="ChipsDemo/Views/ChipsPage.xaml" Line="9" Column="66" />
+      <File FileName="ChipsDemo/Views/ChipsPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChipsDemo" expanded="True">
+            <Node name="ChipsDemo" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="ChipsPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChipsDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FDEE9C99-22CE-4D1E-B393-881CAF67C0B6" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChipsDemo.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+</Properties>
